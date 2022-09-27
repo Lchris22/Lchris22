@@ -1,10 +1,12 @@
 <h1 >Hi :wave:, I'm Lenin Fernandes</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Lchris22&label=visitors alt=profilecounter/> </p>
 
-- :sunglasses: CSE Undergrad
+## I'm a computer science engineering student!
 - 👯 Open to Work
+- 🔭 Intern at Peersistent Systems.
 - 🌱 I'm currently learning React
-- :soccer: 
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- :soccer: I Play Football⚽.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
