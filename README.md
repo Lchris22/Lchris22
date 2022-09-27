@@ -18,6 +18,8 @@
  <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lchris22&show_icons=true&locale=en&layout=compact&theme=outrun" alt="language stats" /></p>
  
  <p> <img src=https://github-readme-stats.vercel.app/api?username=Lchris22&show_icons=true&theme=outrun alt=rahuldkjain /> </p>
+ 
+ [![@chrislenins's Holopin board](https://holopin.io/api/user/board?user=chrislenins)](https://holopin.io/@chrislenins)
 
 
 
