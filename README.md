@@ -21,7 +21,12 @@
  
  <p> <img src=https://github-readme-stats.vercel.app/api?username=Lchris22&show_icons=true&theme=outrun alt=rahuldkjain /> </p>
  
+ 
+<!--  holopins board -->
  [![@chrislenins's Holopin board](https://holopin.io/api/user/board?user=chrislenins)](https://holopin.io/@chrislenins)
+ 
+<!--  animated gif -->
+ ![](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 
 
