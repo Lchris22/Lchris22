@@ -1,12 +1,12 @@
-<h1 >Hi :wave:, I'm Lenin Fernandes</h1>
+ ### *Lenin Fernandes*<img src="https://cobratate.com/images/Top-G.svg" height="30" width="30">  
+<h4> Goa, India</h4>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Lchris22&label=visitors alt=profilecounter/> </p>
 
-## I'm a computer science engineering student!
-- 👯 Open to Work
-- 🔭 Intern at Peersistent Systems.
-- 🌱 I'm currently learning React
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- :soccer: I Play Football⚽.
+## *Computer Engineer!*
+- 👷‍♂️ Open to Work
+- 🏗 I'm currently learning Flutter
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🎮 Game Developer. [🕹Play my latest game🕹](https://lenin-fernandes.itch.io/marble-solitaire)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
