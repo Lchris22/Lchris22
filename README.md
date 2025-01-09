@@ -4,9 +4,9 @@
 
 ## *Computer Engineer!*
 - 👷‍♂️ Open to Work
-- 🏗 I'm currently learning Flutter
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- 🎮 Game Developer. [🕹Play my latest game🕹](https://lenin-fernandes.itch.io/marble-solitaire)
+- 🏗 I'm currently learning DevOps 
+- 🥅 2025 Goals: Get better at DevOps.
+- 🎮 Also a Game Developer. [🕹Play my latest game🕹](https://lenin-fernandes.itch.io/marble-solitaire)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
